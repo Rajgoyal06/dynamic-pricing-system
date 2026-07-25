@@ -1,4 +1,9 @@
 # 🚀 Dynamic Pricing System
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit)
 
 A Machine Learning-based Dynamic Pricing System developed to predict optimal product prices using historical sales data, demand trends, competitor pricing, and market factors.
 
